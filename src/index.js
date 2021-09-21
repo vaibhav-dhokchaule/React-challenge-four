@@ -29,6 +29,7 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
+//React Que.
 //Create a react app from scratch
 // show a single h1 that says "Good Morning" if bet midnight and 12pm
 // or "Good afternoon" if bet 12pm and 6pm
